@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software
+What things you need to install the software. Check out the [requirements.txt](https://github.com/Abesuden/NASAs-ISS-zeroG-robot/requirements.txt) for quick installation
 
 ```
 Python3
@@ -72,8 +72,8 @@ We are deploying the software on a RaspberryPi 4 model B
 
 ## Built With
 
-* [Open CV]() - Used for navigating by creating a continous depth map from the inside of the ISS
-* [Keras]() - Used for training the robot to have face recognition with deep learning
+* [Open CV](https://docs.opencv.org/2.4/modules/refman.html) - Used for navigating by creating a continous depth map from the inside of the ISS
+* [Keras](https://keras.io/) - Used for training the robot to have face recognition with deep learning
 
 ## Versioning
 
