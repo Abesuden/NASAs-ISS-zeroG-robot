@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software. Check out the [requirements.txt](https://github.com/Abesuden/NASAs-ISS-zeroG-robot/requirements.txt) for quick installation
+What things you need to install the software. Check out the [requirements.txt](https://github.com/Abesuden/NASAs-ISS-zeroG-robot/blob/master/requirements.txt) for quick installation
 
 ```
 Python3
