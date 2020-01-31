@@ -2,13 +2,17 @@
 
 The goal of this project is to create a floating voice assistant robot for use in the International Space Station. This repo is where all of the source code will be held.
 
+## Project's Management
+
+Find the current status of the project [here](https://github.com/Abesuden/NASAs-ISS-zeroG-robot/projects/1)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software
+What things you need to install the software. Check out the [requirements.txt](https://github.com/Abesuden/NASAs-ISS-zeroG-robot/requirements.txt) for quick installation
 
 ```
 Python3
@@ -68,8 +72,8 @@ We are deploying the software on a RaspberryPi 4 model B
 
 ## Built With
 
-* [Open CV]() - Used for navigating by creating a continous depth map from the inside of the ISS
-* [Keras]() - Used for training the robot to have face recognition with deep learning
+* [Open CV](https://docs.opencv.org/2.4/modules/refman.html) - Used for navigating by creating a continous depth map from the inside of the ISS
+* [Keras](https://keras.io/) - Used for training the robot to have face recognition with deep learning
 
 ## Versioning
 
