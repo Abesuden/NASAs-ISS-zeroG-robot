@@ -2,6 +2,10 @@
 
 The goal of this project is to create a floating voice assistant robot for use in the International Space Station. This repo is where all of the source code will be held.
 
+## Project's Management
+
+Find the current status of the project [here](https://github.com/Abesuden/NASAs-ISS-zeroG-robot/projects/1)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
